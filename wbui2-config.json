@@ -29,20 +29,7 @@
         ]
       }
     ],
-    "links": [
-      {
-        "text": "Link to Wiki",
-        "url": "https://wiki.wbui2.de"
-      },
-      {
-        "text": "Link to discord",
-        "url": "https://discord.com/invite/K7NyrTV"
-      },
-      {
-        "text": "Link to google",
-        "url": "https://google.com"
-      }
-    ],
+    "links": [],
     "version": 2
   }
 }
