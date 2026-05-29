@@ -1,48 +1,48 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 1,
-            "hideicon": true,
-            "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-            "disableicontext": false,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": false,
-            "updateinterval": 72
-        },
-        "tabs": [
-            {
-                "layout": 2,
-                "buttontext": "Welcome!",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Welcome to Styx Omega!",
-                        "text": "Styx was made to be an easy, no bullshit place to play ARK. It was intended for friends but if you wanna play here, Welcome! Just Please read the very small list of info here and box 2! \\r\\n\\r<TextStyle.Yellow>Discord</> Nada. If we end up with a bunch of players, ill add one here. Otherwise, head to the help section. \\r\\n \\r\\n<TextStyle.Yellow>Stats</> x3 Experience, x5 Harvesting & Taming\\r\\n<TextStyle.Yellow>Breeding</> x85 Mature, x65 Incubation, 1 Imprint \\r\\n<TextStyle.Yellow>Decay</> Thatch: 20D > Wood: 40D > Stone: 60D, Metal: 80D, Tek: 100D\\r\\n\\r\\n<TextStyle.Yellow>Base Rules</> \\r\\n<TextStyle.Green>Limits ></> 1 Base Per PERSON (not tribe)! Place an Awesome Teleporter OUTSIDE your base with your player name so I know who it belongs to. No Teleporter gets you a wiped on Wednesdays. Does not need to be public. \\r\\n<TextStyle.Green>No Lag! ></> Dont cause lag. If you cause lag, i will leave a billboard with a day it needs rectified. We can communicate on discord farther or use billboards to let me know you fixed it. \\r\\n<TextStyle.Green>Dont's > </>Dont build on resources, dont leave traps around, dont leave teleporters, all that. Keep your mess at your base. EZ.\\r\\n\\r\\n<TextStyle.Yellow>Conduct Rules</> Listen, just dont be an ass. Its PVE. Dont touch what isnt yours, mess with anyones taming, base, griefing, etc. Instant ban for bullshit.\n\n<TextStyle.Red>NEED HELP?</>\\r\\nAdmin support is available for some things by contacting Luna on discord: my name is: luna_vicious \\r\\n These things include (but not limited to):\\r\\n   >Being Griefed\\r\\n   >Losing Characters\\r\\n   >Severe Ark Losses\\r\\n   >Severe Bug Reporting\\r\\n   >Requests\\r\\n\\r\\nWhat I will not deal with is small losses, a few dino deaths, tribe issues, drama, etc. I dont got the time. \n"
-                    },
-                    {
-                        "title": "Perks and Trading",
-                        "text": "\\r\\n<TextStyle.Yellow>Trading</> We have a mod for player shop tables! Use them as you like. Please put \"shop\" in your teleporter name so we can go shop! \\r\\n\\r\\n<TextStyle.Yellow>Some Other Things We Offer</> \\r\\nStarters at the Community Center - First Spawn\\r\\nCryoLess Digitizer Gun & Terminals\\r\\nLightly buffed player stats per level up\\r\\nCustom Ring Drops with Omega Items\\r\\n   >White Ring Has Basic to Delta Potions/Items/Arrows\\r\\n   >Green Ring Has Delta to Gamma Potions/Items/Arrows\\r\\n   >Blue Ring Has Gamma to Beta\\r\\n   >Purple Ring Has Beta to Alpha Potions/Items/Arrows\\r\\n   >Yellow Ring Has Alpha to Elite Potions/Items/Arrows/Metal Arrows\\r\\n   >Red Ring Has Elite+ Potions/Items/Arrows/Metal Arrows/Shards \\r\\nNO Useless Dino bones or Rockwell Recipes\\r\\nUpdated Potions to use Omega items\\r\\nAdmin Tables (may not be completed - est completion June 15th)\\r\\nRiders Are Safe on Tames!\\r\\nRemoved Useless Engrams\\r\\nBlocked Pegos and Stealy Birds (pm me if you want one)\\r\\nBlocked Tames that cant be Omegafied\\r\\nAdded PiggyBacks\\r\\nChill, No Drama Atmosphere\\r\\nNo Discord Required\\r\\nNo Special Currencies To Deal With\\r\\nAdmin Tables Offer Material Exchanges and Ascension Potions for Essences \\r\\nFaster Machines, More Range on Depot Terminals\\r\\nAuto Dino Wipes Every 8 Hours\\r\\n8 Hour Miracles\\r\\nAwesome Ark Tools Dino Finder\\r\\nAwesome Ark Tools Commands (go to Preferences > Automation)\\r\\nManual Server Restarts - I'll Do Them When No Ones Online For As Much Uninterrupted Play As Possible."
-                    }
-                ]
-            }
-        ],
-        "links": [
-            {
-                "text": "Link to Wiki",
-                "url": "https://wiki.wbui2.de"
-            },
-            {
-                "text": "Link to discord",
-                "url": "https://discord.com/invite/K7NyrTV"
-            },
-            {
-                "text": "Link to google",
-                "url": "https://google.com"
-            }
-        ],
-        "version": 2
-    }
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 10,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 72
+    },
+    "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "Welcome!",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "Welcome to Styx Omega!",
+            "text": "Styx was made to be an easy, no bullshit place to play ARK. It was intended for friends but if you wanna play here, Welcome! Just Please read the very small list of info here and box 2! \\r\\n\\r<TextStyle.Yellow>Discord</> Nada. If we end up with a bunch of players, ill add one here. Otherwise, head to the help section. \\r\\n \\r\\n<TextStyle.Yellow>Stats</> x3 Experience, x5 Harvesting & Taming\\r\\n<TextStyle.Yellow>Breeding</> x85 Mature, x65 Incubation, 1 Imprint \\r\\n<TextStyle.Yellow>Decay</> Thatch: 20D > Wood: 40D > Stone: 60D, Metal: 80D, Tek: 100D\\r\\n\\r\\n<TextStyle.Yellow>Base Rules</> \\r\\n<TextStyle.Green>Limits ></> 1 Base Per PERSON (not tribe)! Place an Awesome Teleporter OUTSIDE your base with your player name so I know who it belongs to. No Teleporter gets you a wiped on Wednesdays. Does not need to be public. \\r\\n<TextStyle.Green>No Lag! ></> Dont cause lag. If you cause lag, i will leave a billboard with a day it needs rectified. We can communicate on discord farther or use billboards to let me know you fixed it. \\r\\n<TextStyle.Green>Dont's > </>Dont build on resources, dont leave traps around, dont leave teleporters, all that. Keep your mess at your base. EZ.\\r\\n\\r\\n<TextStyle.Yellow>Conduct Rules</> Listen, just dont be an ass. Its PVE. Dont touch what isnt yours, mess with anyones taming, base, griefing, etc. Instant ban for bullshit.\n\n<TextStyle.Red>NEED HELP?</>\\r\\nAdmin support is available for some things by contacting Luna on discord: my name is: luna_vicious \\r\\n These things include (but not limited to):\\r\\n   >Being Griefed\\r\\n   >Losing Characters\\r\\n   >Severe Ark Losses\\r\\n   >Severe Bug Reporting\\r\\n   >Requests\\r\\n\\r\\nWhat I will not deal with is small losses, a few dino deaths, tribe issues, drama, etc. I dont got the time. \n"
+          },
+          {
+            "title": "Perks and Trading",
+            "text": "\\r\\n<TextStyle.Yellow>Trading</> We have a mod for player shop tables! Use them as you like. Please put \"shop\" in your teleporter name so we can go shop! \\r\\n\\r\\n<TextStyle.Yellow>Some Other Things We Offer</> \\r\\nStarters at the Community Center - First Spawn\\r\\nCryoLess Digitizer Gun & Terminals\\r\\nLightly buffed player stats per level up\\r\\nCustom Ring Drops with Omega Items\\r\\n   >White Ring Has Basic to Delta Potions/Items/Arrows\\r\\n   >Green Ring Has Delta to Gamma Potions/Items/Arrows\\r\\n   >Blue Ring Has Gamma to Beta\\r\\n   >Purple Ring Has Beta to Alpha Potions/Items/Arrows\\r\\n   >Yellow Ring Has Alpha to Elite Potions/Items/Arrows/Metal Arrows\\r\\n   >Red Ring Has Elite+ Potions/Items/Arrows/Metal Arrows/Shards \\r\\nNO Useless Dino bones or Rockwell Recipes\\r\\nUpdated Potions to use Omega items\\r\\nAdmin Tables (may not be completed - est completion June 15th)\\r\\nRiders Are Safe on Tames!\\r\\nRemoved Useless Engrams\\r\\nBlocked Pegos and Stealy Birds (pm me if you want one)\\r\\nBlocked Tames that cant be Omegafied\\r\\nAdded PiggyBacks\\r\\nChill, No Drama Atmosphere\\r\\nNo Discord Required\\r\\nNo Special Currencies To Deal With\\r\\nAdmin Tables Offer Material Exchanges and Ascension Potions for Essences \\r\\nFaster Machines, More Range on Depot Terminals\\r\\nAuto Dino Wipes Every 8 Hours\\r\\n8 Hour Miracles\\r\\nAwesome Ark Tools Dino Finder\\r\\nAwesome Ark Tools Commands (go to Preferences > Automation)\\r\\nManual Server Restarts - I'll Do Them When No Ones Online For As Much Uninterrupted Play As Possible."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Link to Wiki",
+        "url": "https://wiki.wbui2.de"
+      },
+      {
+        "text": "Link to discord",
+        "url": "https://discord.com/invite/K7NyrTV"
+      },
+      {
+        "text": "Link to google",
+        "url": "https://google.com"
+      }
+    ],
+    "version": 2
+  }
 }
